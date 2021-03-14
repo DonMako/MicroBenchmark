@@ -365,8 +365,8 @@ Imaginons le scénario suivant. Vous êtes en train de taper un long et fastidie
 #La structure est celle la : control est une liste d'arguments
 print(microbenchmark(x <- 10, control = list( )))
 
-Commencez par des étapes simples.
-Initialisez tout d'abord la variable a, puis rédigez la fonction f permettant d'augmenter la valeur de a de 1.
+#Commencez par des étapes simples.
+#Initialisez tout d'abord la variable a, puis rédigez la fonction f permettant d'augmenter la valeur de a de 1.
 
 ```
 
